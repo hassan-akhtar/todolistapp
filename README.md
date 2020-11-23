@@ -1,6 +1,6 @@
 # Todo List App
 
-Simple mobile app built in react native to manage todo list.
+Basic Mobile app that will help you to manage your daily tasks.
 
 ## Prerequisites
 React Native CLI
